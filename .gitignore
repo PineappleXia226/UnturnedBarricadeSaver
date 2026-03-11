@@ -1,0 +1,37 @@
+# Visual Studio
+.vs/
+.vscode/
+
+# Build output
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / ReSharper
+.idea/
+_ReSharper*/
+*.DotSettings.user
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+*.temp
+
+# NuGet packages folder (optional)
+packages/
+
+# OS files
+.DS_Store
+Thumbs.db

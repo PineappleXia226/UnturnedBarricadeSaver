@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PineA.BarricadeSaver", "PineA.BarricadeSaver\PineA.BarricadeSaver.csproj", "{C43688F9-CFEF-469E-8EB9-FF51D289EEC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C43688F9-CFEF-469E-8EB9-FF51D289EEC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43688F9-CFEF-469E-8EB9-FF51D289EEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43688F9-CFEF-469E-8EB9-FF51D289EEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43688F9-CFEF-469E-8EB9-FF51D289EEC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93DDD60A-CCC2-4041-9E3E-38B473D7B4FD}
+	EndGlobalSection
+EndGlobal
