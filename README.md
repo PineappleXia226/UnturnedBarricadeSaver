@@ -1,5 +1,7 @@
 # PineA.BarricadeSaver
 
+English version: [README_EN.md](README_EN.md)
+
 一个基于 **RocketMod / Unturned** 的建筑（Barricade）离线保存与恢复插件。
 
 该插件可以在玩家离线后将符合条件的 Barricade 保存到 MySQL 数据库，并在玩家重新上线后自动恢复到地图，同时支持：
